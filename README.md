@@ -1,2 +1,2 @@
 # binary-classification-age-Conditions
-This small project serves as an example of how I approach documentation. Also, this is a manageable example of how I approach ML tasks
+This small project originally was a Kaggle competition I participated in and now it serves as an example of how I approach documentation. Also, this is a manageable example of my thought process when it comes to ML tasks. You can recreate the project using the train.csv example I have attached, however, the test data is not available as testing was done directly by the competition holders
